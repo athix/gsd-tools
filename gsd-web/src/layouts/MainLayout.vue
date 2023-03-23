@@ -15,9 +15,9 @@
         />
 
         <q-btn
-          label="Create GSD"
+          label="Create A GSD ID"
           flat
-          @click="openCreateDialog"
+          to="/create"
         />
 
         <q-input
