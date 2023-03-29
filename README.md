@@ -24,6 +24,7 @@ Each project has its own README and supporting documents. Included below is a sh
 - [GSD GitHub Actions](/gsd-github-actions#github-actions "GSD Github Actions") - GSD Github Actions
 - [GSD Requests](/gsd-requests#webform "Webform for submitting new GSD IDs") - Webform for submitting new GSD IDs
 - [GSD Schema](/gsd-schema#gsd-schema "JSON schema of a GSD identifier") - JSON schema of a GSD identifier
+- [GSD Scripts](/gsd-scripts#gsd-scripts "Various scripts related to the GSD project") - Various scripts related to the GSD project
 - [GSD URL Processing](/gsd-url-processing#gsd-url-processing)
 - [GSD Web](/gsd-web#gsd-web "A web based user interface for the GSD data") - A web based user interface for the GSD data - https://data.gsd.id
 - [Local Scripts](/local-scripts#local-scripts)
